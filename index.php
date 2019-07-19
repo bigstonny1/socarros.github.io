@@ -153,7 +153,7 @@
                     <div class="pricing-inner section-inner">
                         <div class="pricing-header text-center">
                             <h2 class="section-title mt-0">Confira nosso melhor Plano</h2>
-                            <p class="section-paragraph mb-0">Contratando nosso plano Premium, Você adquire nodos os serviços acima citados</p>
+                            <p class="section-paragraph mb-0">Adquira nosso plano Premium</p>
                         </div>
 						<div class="pricing-tables-wrap">
                             <div class="pricing-table">

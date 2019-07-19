@@ -8,6 +8,7 @@
 	<!DOCTYPE html>
 	<html>
 	<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="robots" content="noindex, nofollow">
 	<meta http-equiv="refresh" content="0;url=<?php echo $url_site_protetor ?>redir.php">
@@ -31,28 +32,6 @@ body{
   left: 0;
   top: 0;
 }
-/* 
-1200px – Desktops, notebooks com monitores widescreen
-***********************************************************/
-@media screen and (max-width:1200px){
-      
-}
-/* 
-960px – Tablets no formato paisagem e alguns monitores mais antigos
-***********************************************************/
-@media screen and (max-width:960px){
-      
-}
-/* 
-768px – Tablets no formato retrato, como o iPad
-***********************************************************/
-@media screen and (max-width:768px){
-}
-/* 
-480px – Smartphones no formato paisagem com tela pequena
-***********************************************************/
-@media screen and (max-width:480px){
-	
 </style>
 	</head>
 	<body>

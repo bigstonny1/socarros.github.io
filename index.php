@@ -213,16 +213,16 @@
                     </div>
                     <ul class="footer-links list-reset">
                         <li>
-                            <a href="#">Contact</a>
+                            <a href="#">Contato</a>
                         </li>
                         <li>
-                            <a href="#">About us</a>
+                            <a href="#">Sobre-nós</a>
                         </li>
                         <li>
                             <a href="#">FAQ's</a>
                         </li>
                         <li>
-                            <a href="#">Support</a>
+                            <a href="#">Suporte</a>
                         </li>
                     </ul>
                     <ul class="footer-social-links list-reset">
@@ -251,7 +251,7 @@
                             </a>
                         </li>
                     </ul>
-                    <div class="footer-copyright">&copy; 2019 Solid, all rights reserved</div>
+                    <div class="footer-copyright">&copy; 2019 VPS CLOUD, all rights reserved</div>
                 </div>
             </div>
         </footer>

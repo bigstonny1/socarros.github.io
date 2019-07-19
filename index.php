@@ -216,7 +216,7 @@
                             <a href="#">Contato</a>
                         </li>
                         <li>
-                            <a href="#">Sobre-nós</a>
+                            <a href="#">A Empresa</a>
                         </li>
                         <li>
                             <a href="#">FAQ's</a>

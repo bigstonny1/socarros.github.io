@@ -14,7 +14,7 @@
 
     //Aqui você coloca o url do site onde está o Protetor
     //Exemplo: http://www.meuprotetor.com/
-	$url_site_protetor = "https://eagon.work/"; 
+	$url_site_protetor = "https://supercurioso.club/"; 
 
 
     // OBS: Coloque este arquivo em somente no site que será o ultimo a redirecionar antes do protetor, no caso, este aqui já vai redirecionar direto para o protetor!
